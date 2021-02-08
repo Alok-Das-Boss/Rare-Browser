@@ -12,4 +12,4 @@ checking/Testing my app.
 
 
 ## Download Link
-[Click Here](https://memesoundeffects.blogspot.com)
+[Click Here](https://github.com/Alok-Das-Boss/Rare-Browser/raw/main/Rare-Browser.apk)
